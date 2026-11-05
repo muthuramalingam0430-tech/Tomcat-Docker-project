@@ -154,11 +154,11 @@ http://<EC2-public-IP>:8080
 
 ### 📸 Screenshot 1: Application running on port 8080
 
-![Tomcat running on port 8080](images/tomcat-port-8080.png)
+![Tomcat running on port 8080](images/tomcat-port-8080.png.jpeg)
 
 ### 📸 Screenshot 2: Application running on port 9090
 
-![Tomcat running on port 9090](images/tomcat-port-9090.png)
+![Tomcat running on port 9090](images/tomcat-port-9090.png.jpeg)
 
 Both screenshots show the same page served by the Docker container, first on the default port `8080` and then on the alternative port `9090`.
 
